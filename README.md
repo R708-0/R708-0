@@ -1,11 +1,11 @@
 <h1 align="center">Hola👋, Me llamo Diego Melgar Parada</h1>
 <h3 align="center">Soy un desarrollador web</h3>
 
-- 👨‍💻 All of my projects are available at [https://leveling.odoo.com/](https://leveling.odoo.com/)
+- 👨‍💻 Puedes ver todos mis proyectos en  [https://leveling.odoo.com/](https://leveling.odoo.com/)
 
-- 💬 Ask me about **Odoo, html, python, PostgreSQL, git**
+- 💬 Preguntame sobre **Odoo, html, python, PostgreSQL, git**
 
-- 📫 How to reach me **melgarparadadiego@gmail.com**
+- 📫 Como contactarme **melgarparadadiego@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
